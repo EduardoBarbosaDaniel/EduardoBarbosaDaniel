@@ -31,3 +31,6 @@ Criando dashboards e sistemas web
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&layout=compact&theme=tokyonight)
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          

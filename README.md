@@ -58,4 +58,4 @@
 </p>
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/EduardoBarbosaDaniel/EduardoBarbosaDaniel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardoBarbosaDaniel/EduardoBarbosaDaniel/blob/output/github-contribution-grid-snake-dark.svg)

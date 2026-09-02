@@ -30,8 +30,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&amp;show_icons=true&amp;theme=dark"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&amp;layout=compact&amp;theme=tokyonight"/>
+  <img src="https://img.shields.io/github/followers/EduardoBarbosaDaniel?style=for-the-badge&label=Followers&color=0e75b6"/>
+  <img src="https://img.shields.io/github/stars/EduardoBarbosaDaniel?style=for-the-badge&label=Stars&color=0e75b6"/>
 </p>
 
 ---

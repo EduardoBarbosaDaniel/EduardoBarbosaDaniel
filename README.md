@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou Eduardo Barbosa Daniel</h1>
 
 <p align="center">
-💻 Desenvolvedor iniciante focado em desenvolvimento web <br>
-🚀 Criando dashboards e sistemas administrativos <br>
-📚 Estudando C#, PHP e JavaScript
+  💻 Desenvolvedor iniciante focado em desenvolvimento web <br>
+  🚀 Criando dashboards e sistemas administrativos <br>
+  📚 Estudando C#, PHP e JavaScript
 </p>
 
 ---
@@ -27,34 +27,30 @@
 
 ---
 
-
 ## 📊 Estatísticas
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=dark)
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
-<div>
-<p>
- ## 🌐 Conecte-se comigo
+
+## 🌐 Conecte-se comigo
 
 <p>
   <a href="https://www.linkedin.com/in/eduardo-barbosa-daniel-891224349" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/edutvw/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-</p>    
-</div>
 
-<p align="center">
-⭐ Sempre aprendendo algo novo!
-</p>
+---
+
+<p align="center">⭐ Sempre aprendendo algo novo!</p>
 
 ## 🐍 Contribuições
+
 ![Snake animation](https://github.com/EduardoBarbosaDaniel/EduardoBarbosaDaniel/blob/output/github-contribution-grid-snake-dark.svg)

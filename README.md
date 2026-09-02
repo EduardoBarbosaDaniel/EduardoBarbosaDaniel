@@ -31,7 +31,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=tokyonight"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=dark)
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&layout=compact&theme=tokyonight"/>
 </p>
 
